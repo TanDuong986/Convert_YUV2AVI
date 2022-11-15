@@ -1,2 +1,5 @@
 # Convert_YUV2AVI
-link data : http://trace.eas.asu.edu/yuv/
+Reads a .yuv 420 file containing 300 consecutive image frames. Then convert this image file into a new video in .avi format
+
+Link data yuv file : http://trace.eas.asu.edu/yuv/
+Link about yuv 420 : https://en.wikipedia.org/wiki/Chroma_subsampling
